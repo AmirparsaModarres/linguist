@@ -35,6 +35,25 @@
 #
 # Please keep this list alphabetized. Capitalization comes before lowercase.
 ---
+Am:
+  fs_name: "Am"
+  type: programming
+  aliases:
+    - Am
+  ace_mode: text
+  codemirror_mode: clike
+  codemirror_mime_type: "text/x-am"
+  wrap: false
+  extensions:
+    - .am
+  filenames:
+    - Am
+  interpreters:
+    - am
+  language_id: 888
+  color: "#00FF00"
+  tm_scope: "source.am"
+  group: "Am"
 1C Enterprise:
   type: programming
   color: "#814CCC"
